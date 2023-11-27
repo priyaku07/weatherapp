@@ -49,7 +49,7 @@ function App() {
         <div className="shadow rounded weatherResultBox">
           <img className="weatherIcon"
           src="https://i.pinimg.com/originals/77/0b/80/770b805d5c99c7931366c2e84e88f251.png"
-          alt="Cloud with a sun image"/>
+          alt="Cloud with a sun"/>
 
           <h5 className="weatherCity">
             {data?.name}</h5>
